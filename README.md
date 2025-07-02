@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-e-kasem&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="a-e-kasem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-e-kasem&show_icons=true&locale=en&theme=tokyonight" alt="a-e-kasem" /></p>
+<p>&nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="a-e-kasem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-e-kasem&theme=tokyonight" alt="a-e-kasem" /></p>
