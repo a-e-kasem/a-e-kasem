@@ -2,7 +2,7 @@
 
 I'm **Aboelkasem Elsayed Kasem**, a passionate **Flutter Developer & Embedded Systems Engineer**.
 
-I enjoy creating smart solutions using both **mobile technologies** and **microcontrollers**. From building interactive apps in Flutter to engineering hardware projects with ESP32 and sensors – I love combining software and hardware to solve real-world problems.
+I enjoy creating smart solutions using both **mobile technologies** and **microcontrollers**. From building interactive apps in Flutter to engineering hardware projects with ESP32 and sensors, I love combining software and hardware to solve real-world problems.
 
 ---
 
@@ -23,8 +23,7 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 - [LinkedIn](https://www.linkedin.com/in/a-e-kasem/)
 - [Facebook](https://www.facebook.com/aboelkasem.elsayed)
 - [Instagram](https://www.instagram.com/a_e_kasem/)
-- [GitHub](https://github.com/a-e-kasem)
-- 📄 **[My CV]([https://drive.google.com/file/d/1jFRWDDc5p0PIyryCJugQTEFxyym3AhTI/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_))**
+- 📄 **[CV](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_)**
 
 ---
 
@@ -37,7 +36,7 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![HTML5](https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
