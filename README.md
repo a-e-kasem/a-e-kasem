@@ -2,27 +2,40 @@
 
 <h1 align="center">Hi 👋, I'm Aboelkasem Elsayed</h1>
 <h3 align="center">I’m a passionate App Developer using Flutter</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-e-kasem&label=Profile%20views&color=0e75b6&style=flat" alt="a-e-kasem" /> </p>
-
-- 🔭 I’m currently working on **improving my mobile app development skills**
-
-- 🌱 I’m currently learning **Flutter and app development**
-
-- 💬 Ask me about **Flutter, Dart, Mobile UI**
-
-- 📫 How to reach me: **aboelkasem8088@gmail.com**
-
-- ⚡ Fun fact: **I believe learning never stops**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/a_e_kasem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/a-e-kasem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/a_e_kasem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.facebook.com/aboelkasem.elsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=a-e-kasem&label=Profile%20views&color=0e75b6&style=flat" alt="a-e-kasem" />
 </p>
+
+---
+
+> 🔭 I’m currently working on **improving my mobile app development skills**  
+> 🌱 I’m currently learning **Flutter and app development**  
+> 💬 Ask me about **Flutter, Dart, Mobile UI**  
+> 📫 Reach me at: **aboelkasem8088@gmail.com**  
+> ⚡ Fun fact: **I believe learning never stops**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://x.com/a_e_kasem" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/a-e-kasem/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/a_e_kasem/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/aboelkasem.elsayed" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,10 +51,23 @@
 
 ---
 
-[![Aboelkasem's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a-e-kasem&theme=xcode)](https://github.com/a-e-kasem)
+### 📊 My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-e-kasem&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="a-e-kasem" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a-e-kasem&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="a-e-kasem" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-e-kasem&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-e-kasem&theme=tokyonight" alt="a-e-kasem" /></p>
+---
+
+### 📄 My Resume
+
+If you'd like to know more about my experience and skills, feel free to check out my CV:  
+👉 [View CV (PDF)](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_)
+
+
+<!-- Optional SEO Meta -->
+<!-- GitHub Profile: Aboelkasem Elsayed - Mobile App Developer using Flutter -->
