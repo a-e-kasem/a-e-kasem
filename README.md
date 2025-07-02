@@ -39,7 +39,6 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
 </p>
 
-[![CV](https://img.shields.io/badge/-MY%20Curriculum%20Vitae-purple?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1jFRWDDc5p0PIyryCJugQTEFxyym3AhTI/view?usp=sharing)
 
 ---
 
@@ -50,4 +49,5 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 ---
 
 > _“Keep building, keep learning, and always push beyond your limits.”_
+> [![CV](https://img.shields.io/badge/-MY%20Curriculum%20Vitae-purple?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1jFRWDDc5p0PIyryCJugQTEFxyym3AhTI/view?usp=sharing)
 
