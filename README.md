@@ -22,8 +22,20 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="80" height="80"/>](https://www.linkedin.com/in/a-e-kasem/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="80" height="80"/>](https://www.facebook.com/aboelkasem.elsayed)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/instagram/instagram-original.svg" alt="Instagram" width="80" height="80"/>](https://www.instagram.com/a_e_kasem/)
 
 ---
+
+### 💡 Projects I've Worked On
+
+| Project | Description |
+|--------|-------------|
+| 🚗 **Smart Garbage Collection Car** | An autonomous car that follows a predefined path to collect street garbage using ESP32, IR sensors, servo motors, and ultrasonic distance sensors. |
+| 📱 **El Salaty App Clone** | A Flutter-based prayer time app with clean UI and integrated API for prayer times and local notifications. |
+| 📰 **News App** | A Flutter app that fetches and displays categorised news using API integration with Dio. Includes clean UI and responsive layout for user-friendly reading. |
+| 📚 **Language Learning App** | A fun and interactive Flutter app to teach basic words and phrases with sounds and images. Categories include: numbers, family, phrases. |
+| 🏢 **Coworking Space System** | A full system for managing coworking spaces, reservations, and user data. Includes backend logic and user-friendly frontend. |
+
 
 ---
 
@@ -39,6 +51,7 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
 </p>
 
+[![CV](https://img.shields.io/badge/-MY%20Curriculum%20Vitae-purple?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1jFRWDDc5p0PIyryCJugQTEFxyym3AhTI/view?usp=sharing)
 
 ---
 
@@ -49,5 +62,3 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 ---
 
 > _“Keep building, keep learning, and always push beyond your limits.”_
-> [![CV](https://img.shields.io/badge/-MY%20Curriculum%20Vitae-purple?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1jFRWDDc5p0PIyryCJugQTEFxyym3AhTI/view?usp=sharing)
-
