@@ -20,7 +20,7 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 
 ### 🌐 Connect with me
 
-- [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>](https://www.linkedin.com/in/a-e-kasem/)
+- [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/a-e-kasem/)
 - [Facebook](https://www.facebook.com/aboelkasem.elsayed)
 - [Instagram](https://www.instagram.com/a_e_kasem/)
 - **[CV](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_)**
