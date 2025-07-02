@@ -27,24 +27,23 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 
 ---
 
-### 🛠️ I Work With:
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
-![ESP32](https://img.shields.io/badge/-ESP32-323232?logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![HTML5](https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-
 ---
 
-### 📊 GitHub Stats
+### 💻 I Code With
 
-![Aboelkasem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aboelkasem1&show_icons=true&theme=default)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+[![CV](https://img.shields.io/badge/-MY%20Curriculum%20Vitae-purple?style=flat&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1jFRWDDc5p0PIyryCJugQTEFxyym3AhTI/view?usp=sharing)
 
 ---
 
