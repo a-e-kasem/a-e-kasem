@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aboelkasem Elsayed Kasem**, a passionate **Flutter Developer & Embedded Systems Engineer**.
+I'm **Aboelkasem Elsayed Kasem**, a passionate **Flutter Developer & FrontEnd Developer**.
 
 I enjoy creating smart solutions using both **mobile technologies** and **microcontrollers**. From building interactive apps in Flutter to engineering hardware projects with ESP32 and sensors, I love combining software and hardware to solve real-world problems.
 
@@ -20,10 +20,10 @@ I enjoy creating smart solutions using both **mobile technologies** and **microc
 
 ### 🌐 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/a-e-kasem/)
+- [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>](https://www.linkedin.com/in/a-e-kasem/)
 - [Facebook](https://www.facebook.com/aboelkasem.elsayed)
 - [Instagram](https://www.instagram.com/a_e_kasem/)
-- 📄 **[CV](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_)**
+- **[CV](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_)**
 
 ---
 
