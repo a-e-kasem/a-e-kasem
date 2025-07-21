@@ -56,7 +56,7 @@
 ### 📄 My Resume
 
 If you'd like to know more about my experience and skills, feel free to check out my CV:  
-👉 [View CV (PDF)](./Aboelkasem_Elsayed_CV.pdf)
+👉 [View CV (PDF)](https://drive.google.com/drive/u/0/folders/1mqiUCEd-f6ACwMLuTdPOuxxt4TIlwSs_)
 
 
 <!-- Optional SEO Meta -->
